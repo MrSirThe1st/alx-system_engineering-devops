@@ -1,2 +1,2 @@
 #!/bin/bash
-:!chmod -R 375 hello
+chmod 375 hello
